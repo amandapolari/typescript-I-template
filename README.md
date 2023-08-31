@@ -1,10 +1,34 @@
-# Typescript I - Template de Prática
-**Vamos utilizar esse repositório para as práticas da aula!**
+# Typescript - Template de Prática
 
-## Instruções para baixar
+## Índice
 
-1. Faça o fork desse repositório.
-2. No repositório com seu nome de usuário, copie a url.
-3. Abra a pasta onde você guarda os materiais do curso pelo terminal.
-4. Baixe o repositório usando: git clone url-copiada.
-5. Abra a pasta no vscode. Vamos codar!
+-   [1. Criando o projeto](#1-criando-o-projeto)
+-   [2. Organizando o projeto](#2-organizando-o-projeto)
+-   [3. Tipando](#3-tipando)
+-   [4. Fixação](#4-fixação)
+
+## 1. Criando o projeto
+
+### Enunciado
+
+![Alt text](image.png)
+
+## 2. Organizando o projeto
+
+### Enunciado
+
+![Alt text](image-1.png)
+
+## 3. Tipando
+
+### Enunciado
+
+![Alt text](image-2.png)
+
+## 4. Fixação
+
+### Enunciado
+
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
